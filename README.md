@@ -25,6 +25,8 @@ This project uses the **DDTI dataset**, which includes:
 * Ultrasound images of the thyroid
 * Corresponding ground truth masks
 
+Link to dataset: https://www.kaggle.com/datasets/dasmehdixtr/ddti-thyroid-ultrasound-images/data 
+
 ---
 
 ## Model Architecture
